@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://p-insider.github.io//sitemap.xml
